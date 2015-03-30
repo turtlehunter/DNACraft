@@ -1,0 +1,27 @@
+dnacraft.samples.seed.name=Fragmento de ADN de semilla
+dnacraft.samples.pig.name=Fragemento de ADN de cerdo
+dnacraft.samples.chicken.name=Fragmento de ADN de pollo
+dnacraft.samples.zombie.name=Fragmento de ADN de zombie
+dnacraft.samples.creeper.name=Fragmento de ADN de creeper
+dnacraft.samples.ocelot.name=Fragmento de ADN de ocelote
+dnacraft.samples.spider.name=Fragmento de ADN de araña
+dnacraft.samples.enderman.name=Fragmento de ADN de enderman
+dnacraft.samples.sheep.name=Fragmento de ADN de oveja
+
+dnacraft.machines.synthesizer.name=Sintetizador de ADN
+dnacraft.machines.splicer.name=Montador de ADN
+dnacraft.machines.sequencer.name=Secuenciador de ADN
+dnacraft.machines.electroporator.name=Electroevaporador de ADN
+
+dnacraft.gui.synthesizer.name=Sintetizador de ADN
+dnacraft.gui.splicer.name=Montador de ADN
+dnacraft.gui.sequencer.name=Secuenciador de ADN
+dnacraft.gui.electroporator.name=Electroevaporador de ADN
+
+dnacraft.dnaprofile.name=ADN Profile
+dnacraft.egg.name=Huevo mutante
+dnacraft.syringe.name=Jeringa
+dnacraft.bloodsample.name=Muestra de sangre
+dnacraft.needle.name=Needle
+dnacraft.testtube.name=Tubo de pruebas
+dnacraft.dna.name=ADN

@@ -1,0 +1,27 @@
+dnacraft.samples.seed.name=Seed Sample
+dnacraft.samples.pig.name=Pig Sample
+dnacraft.samples.chicken.name=Chicken Sample
+dnacraft.samples.zombie.name=Zombie Sample
+dnacraft.samples.creeper.name=Creeper Sample
+dnacraft.samples.ocelot.name=Ocelot Sample
+dnacraft.samples.spider.name=Spider Sample
+dnacraft.samples.enderman.name=Enderman Sample
+dnacraft.samples.sheep.name=Sheep Sample
+
+dnacraft.machines.synthesizer.name=DNA Synthesizer
+dnacraft.machines.splicer.name=DNA Splicer
+dnacraft.machines.sequencer.name=DNA Sequencer
+dnacraft.machines.electroporator.name=DNA Electroporator
+
+dnacraft.gui.synthesizer=DNA Synthesizer
+dnacraft.gui.splicer=DNA Splicer
+dnacraft.gui.sequencer=DNA Sequencer
+dnacraft.gui.electroporator=DNA Electroporator
+
+dnacraft.dnaprofile.name=DNA Profile
+dnacraft.egg.name=Mutant Egg
+dnacraft.syringe.name=Syringe
+dnacraft.bloodsample.name=Blood Sample
+dnacraft.needle.name=Needle
+dnacraft.testtube.name=Test Tube
+dnacraft.dna.name=DNA
